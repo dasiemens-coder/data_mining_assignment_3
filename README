@@ -1,0 +1,27 @@
+# Data Mining Assignment 3
+
+## Downloading the Dataset
+
+To complete this assignment, you need to download the `twitter_combined.txt.gz` dataset from the Stanford Network Analysis Project (SNAP) and place it in the `data` folder.
+
+### Steps to Download the Dataset
+
+1. Open your terminal or web browser.
+2. Download the dataset using the following link:
+    [twitter_combined.txt.gz](https://snap.stanford.edu/data/twitter_combined.txt.gz)
+3. Once downloaded, move the file to the `data` folder in this project directory.
+
+### Command Line Instructions
+
+Alternatively, you can use the following command to download and move the file directly:
+```bash
+wget https://snap.stanford.edu/data/twitter_combined.txt.gz -P data/
+```
+
+## Setting Up the Environment
+
+Ensure you are using Python 3.1.x for this assignment. You can install the required dependencies by running:
+
+```bash
+pip install -r requirements.txt
+```
