@@ -1,2 +1,3 @@
 pyspark
 GraphFrames-py
+typing_extensions
